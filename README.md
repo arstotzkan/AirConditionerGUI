@@ -1,4 +1,4 @@
-# IonAmygdalou
+# AirConditionerGUI
 An assigment for the Human-Computer Interaction subject (2022-23)
 
 ## Task
@@ -7,7 +7,7 @@ The target audience will be people with slight visual impairments common in midd
 It should be easy and simple to use even for begginers, and it should be on the user's mother tongue (in our case Greek).
 
 
-# ΊονΑμυγδάλου
+# AirConditionerGUI
 Μία εργασία για το μάθημα "Αλληλεπίδραση Ανθρώπου-Υπολογιστή" (2022-23)
 
 ## Στόχος
